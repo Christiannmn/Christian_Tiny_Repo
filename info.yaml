@@ -45,5 +45,5 @@ pinout:
   uio[7]: "IO7"
 
 
-# Do not change!
-  yaml_version: 6
+# Do not change
+yaml_version: 6
